@@ -5,7 +5,7 @@ export function asXApproachesTOutputApproachesC(
   slope: number,
   flip?: boolean
 ) {
-  //https://www.desmos.com/calculator/b5lysp7oku
+  //https://www.desmos.com/calculator/2nf0is5dmz
 
   let output = c * (x / t) ** slope;
 
